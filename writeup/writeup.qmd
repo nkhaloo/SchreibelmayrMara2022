@@ -21,6 +21,7 @@ Challenges that I anticipate we will face are:
 1.  Getting access to the exact voice-AI systems they used (Polly (2019) and Hedda (2019))
 
     -   \*I can currently access Polly for free at <https://ttsmp3.com/ai>, but this is presumably a more modern version that what they used in the original paper. I can't find a way to use Hedda.
+    -   An alternative is to use one of the voices from <https://ttsmp3.com/ai> (which is run on a modern version of Polly), and another voice from <https://ttstool.com/>, which is another online TTS tool that uses Polly, but it seems as though it is running on an older version of Polly.
 
 2.  Finding a passage that the voice-AI's can read as the stimulus (the passage that was read in the paper was in German).
 
