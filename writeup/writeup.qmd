@@ -1,0 +1,39 @@
+---
+title: "Replication of Robot Voices in Daily Life: Vocal Human-Likeness and Application Context as Determinants of User Acceptance by Simon Schreibelmayr and Martina Mara (2022, Frontiers in Psychology)"
+author: "Noah Khaloo"
+date: "2024-10-10"
+format: html
+editor: visual
+---
+
+## Introduction
+
+This project will be a conceptual replication of the Schreibelmayr and Mara (2022) paper in that we will be assessing whether their results generalize to more modern voice-AI technology. This is in-line with my research interests, which revolve primarily on how humans can pick up on key information by assessing the quality of someone's voice. In other words, human's are extremely skilled at picking up sociocultural information just by hearing the sound of someone's voice, regardless of what they are saying. We are also easily able to pick up on more abstract qualities, such as emotion or mental state. This project falls in line with my research interest in that it begins to assess whether we are able to make these same sociocultural judgements about voice-AI. Furthermore, this project dives deeper into how particular qualities of the voice-AI system (in this case, 'human-likeness') are perceived by humans, and how these qualities affect our perception with the system. This project also falls in line with another interest of mine, which involves promoting AI safety by better understanding our interactions with increasingly complex systems.
+
+This project will closely follow the workflow presented in Schreibelmayr and Mara (2022). We will use the same voice-AI systems that they used: Amazon "Polly" (Polly, 2019), Microsoft "Hedda" (Hedda, 2019). We will also include the distorted versions of "Polly" (see **Metallic** and **Comic** sections under the **Voice Stimuli** section of the paper). There are several key adjustments we will make to their procedure:
+
+1.  We will not be using a human voice as one of the stimuli, instead we will use Open-AI's "Advanced voice mode" (OpenAI, 2024).
+2.  We will be implementing our procedure as a remote, online survey that participants can take at home.
+3.  The experiment will be conducted in English, rather than in German.
+
+Challenges that I anticipate we will face are:
+
+1.  Getting access to the exact voice-AI systems they used (Polly (2019) and Hedda (2019))
+
+    -   \*I can currently access Polly for free at <https://ttsmp3.com/ai>, but this is presumably a more modern version that what they used in the original paper. I can't find a way to use Hedda.
+
+2.  Finding a passage that the voice-AI's can read as the stimulus (the passage that was read in the paper was in German).
+
+3.  Participants getting distracted while taking the survey, which can skew our results.
+
+4.  Finding a sufficient way to pre-record the voice-AI's so that we can include the recordings on the survey.
+
+5.  We will likely only be able to record undergraduates, which inevitably introduces biases/confounds, thus making it harder to generalize our conclusions.
+
+Overall, the purpose of this study is not to exactly replicate the entirety of Schreibelmayr and Mara's (2022) study, it is to expand upon it by using more modern technology. In other words, do Schreibelmayr and Mara's results still hold even with the sharp increase in voice-AI capability seen in the modern day? Ultimately, the current study not only has the potential to add more substance to Schreibelmayr and Mara's theoretical conclusions, but will also serve as a means of evaluating people's interactions with modern day AI technology.
+
+## Citations
+
+OpenAI. (2024). Voice mode FAQ. OpenAI Help Center.
+
+Polly (2019). Polly voices. Available at: https://ttsmp3.com/
